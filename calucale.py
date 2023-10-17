@@ -1,4 +1,4 @@
-
+# dz1
 # a = 5
 # b = 7
 # c = a
@@ -13,7 +13,7 @@
 
 
 
-
+# dz2
 
 # print('calucale')
 # a = int(input('введите число'))

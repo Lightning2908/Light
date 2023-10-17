@@ -1,3 +1,20 @@
+
+# a = 5
+# b = 7
+# c = a
+# a = b
+# b = c
+# print(a)
+# print(b)
+
+
+
+
+
+
+
+
+
 # print('calucale')
 # a = int(input('введите число'))
 # c = input('введите символ / +  - * ')
